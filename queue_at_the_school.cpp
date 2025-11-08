@@ -7,7 +7,7 @@ int main() {
     string s;
     cin >> s;
     
-    for(int time=0; time<t; time++)
+    for(int time=0; time<t; time++ )
     {
         for(int i=0; i<n; i++)
         {
